@@ -106,6 +106,7 @@ export class DateTypeSettings {
     todayColor: string = "#000000";
     axisColor: string = "#000000";
     axisTextColor: string = "#000000";
+    fontSize: number = 8;
 }
 
 export class TooltipConfigSettings {
